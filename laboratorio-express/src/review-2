@@ -1,0 +1,15 @@
+#¿Qué es mi producto y para que sirve?
+
+mi producto se trata de una lista de tareas que ahora posee verificacion de errores lo 
+que permite que sea una herramienta util para los desarrolladores en la creacion de una aplicacion web
+robusta y confiable. 
+
+#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+
+Validar los datos de entrada del cliente: en este caso nuestra principal verificacion sera
+los datos.
+
+Validar los datos: los datos que el cliente ingrese a la lista de tareas como que sea una tarea invalida 
+o que no tenga nada que recibir.
+
+validar los metodos correctos: cada ves que el cliente use un metodo http incorrecto tendra un error. 
