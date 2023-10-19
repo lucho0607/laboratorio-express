@@ -1,0 +1,14 @@
+¿Qué es mi producto y para que sirve?
+Una API REST en Express es una interfaz de programación de aplicaciones que sigue los principios de REST, lo que 
+significa que utiliza las operaciones HTTP (GET, POST, PUT, DELETE, etc.) para realizar acciones en recursos, 
+como datos, objetos o servicios.
+con autenticación es extremadamente útil en diversas situaciones, ya que proporciona una capa de seguridad y 
+control de acceso a tus recursos.
+
+#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+1. Seguridad de los datos:La autenticación en un API REST garantiza que solo usuarios autorizados puedan acceder
+ a ciertos recursos o realizar ciertas operaciones.
+2. Control de acceso: La autenticación te permite definir qué usuarios o aplicaciones tienen acceso a diferentes
+ partes de tu API. 
+ 3. Protección contra ataques: La autenticación ayuda a proteger tu API contra ataques de suplantación de identidad 
+ (como la suplantación de un usuario) y otros ataques maliciosos.

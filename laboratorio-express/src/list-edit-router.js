@@ -60,12 +60,12 @@ edit.get("/tasks/completed", (req, res) => {
   res.json(completedTasks);
 });
 
-edit.get("/tasks/incomplete", (req, res) => {
+edit.get("/task/incomplete", (req, res) => {
   const incompleteTasks = tasks.filter((task) => !task.completed);
   res.json(incompleteTasks);
 });
 
-edit.get("/tasks/:id", (req, res) => {
+edit.get("/task/:id", (req, res) => {
   const taskId = parseInt(req.params.id);
   const task = tasks.find((t) => t.id === taskId);
 
